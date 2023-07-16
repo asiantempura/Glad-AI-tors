@@ -1,0 +1,3 @@
+This is an AI made for an academic project. The AI is capable of being placed in an arena and finding and shooting other AIs. 
+The AI incorporates strategies such as taking cover behind terrain, avoiding obstacles and switching between aggressive or defensive tactics depending on its status.  
+In its evalutation, it beat 80% of its competition. 
